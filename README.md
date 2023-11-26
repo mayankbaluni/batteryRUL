@@ -9,3 +9,8 @@ Describe the dataset used, including source and key features.
 
 ## Installation
 Instructions on setting up the project environment.
+# Example
+git clone https://github.com/yourusername/battery-rul-prediction.git
+cd battery-rul-prediction
+pip install -r requirements.txt
+
