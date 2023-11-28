@@ -12,5 +12,5 @@ Instructions on setting up the project environment.
 # Example
 git clone https://github.com/mayankbaluni/batteryRUL
 cd battery-rul-prediction
-pip install -r requirements.txt
+pip install -r requirements.txt (TBD)
 
