@@ -11,6 +11,8 @@ Describe the dataset used, including source and key features.
 Instructions on setting up the project environment.
 # Example
 git clone https://github.com/mayankbaluni/batteryRUL
+
 cd battery-rul-prediction
+
 pip install -r requirements.txt (TBD)
 
