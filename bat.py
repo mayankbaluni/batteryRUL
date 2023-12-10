@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 df = pd.read_csv('path_to_your_dataset.csv')
 print(df.describe())
 X = df.drop('target_column', axis=1) # Replace 'target_column' with your RUL column
-y = df['target_column']
+y = df['target_column'] #target column 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 from sklearn.ensemble import RandomForestRegressor
